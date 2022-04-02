@@ -7,6 +7,10 @@
 .env.backup
 .phpunit.result.cache
 docker-compose.override.yml
+<<<<<<< HEAD
+=======
+Dockerfile
+>>>>>>> 96c70e8... reinitialize project
 Homestead.json
 Homestead.yaml
 npm-debug.log
